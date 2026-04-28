@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Archit</h1>
+<h3 align="center">B.Tech CSE Student | Aspiring Software Engineer</h3>
 
-<!--
-**archit-zip/archit-zip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### About Me
+I’m a B.Tech CSE student who likes to build real-world projects. I am interested in backend development, machine learning, and system design. I am currently focused on preparing for internship opportunities while continuously improving my skills through hands-on work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Tech Stack
+- Languages: JavaScript, NodeJS
+- Backend: ExpressJS
+- Database: MySQL
+- Tools: Git, Docker
+
+---
+
+### GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=archit-zip&show_icons=true)
+
+---
+
+### Connect With Me
+- LinkedIn: https://www.linkedin.com/in/archit-dubey-75ab86377/
+- Email: architdubeyofc@gmail.com
