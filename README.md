@@ -11,8 +11,8 @@ I’m a B.Tech CSE student who likes to build real-world projects. I am interest
 ### Tech Stack
 - Languages: JavaScript, NodeJS
 - Backend: ExpressJS
-- Database: MySQL
-- Tools: Git, Docker
+- Database: MySQL, PostgresQL
+- Tools I have used: Git, Docker, Redis, Websockets, BullMQ, Prisma ORM, EJS
 
 ---
 
